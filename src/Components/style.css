@@ -1,0 +1,20 @@
+.userCard_Wrapper{
+    display: flex;
+    align-items: center;
+    margin: 4rem;
+    padding:2rem;
+    border-radius: 10px;
+    background-color: #efefef;
+}
+.user_avatar{
+    width: 160px;
+    height: 160px;
+}
+.user_details{
+    margin-left: 5rem;
+}
+.user_details div{
+    margin: 10px;
+    color: rgb(69, 69, 69);
+    font-weight: bold;
+}
