@@ -1,0 +1,8 @@
+.spinnerWrapper{
+    width: 100%;
+    background-color: red;
+}
+.spinner{
+    position: absolute;
+    left: 50%;
+}
