@@ -28,7 +28,7 @@ const Home = () => {
                 );
                 console.log(userData);
                 resolve(userData);
-            }, 3000);
+            }, 1000);
         });
     }
 
